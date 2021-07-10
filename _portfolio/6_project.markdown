@@ -1,22 +1,21 @@
 ---
 layout: post
-title: Project
-description: a project with no image
+title: 무늬지어 떠다니는 것들
+description: Floating memory
 img: 
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+우리가 느낀 모든 감각들은 결국 기억으로 남아 더해지거나 사라지고 유연해지거나 단단해지기도 한다.
+이렇게 계속 늘어나고 줄어드는 기억들을 작업의 근간이 되는 또다른 재료와 도구로 정해 스스로가 부여한 색을 입힌다.
+양모에 바늘을 찔러 색을 입히게 되는 반복된 과정이 모여 하나의 무늬를 입게 된다.
+이 과정들이 작품에서 중요한 부분이라고 생각하는데, 이런 행위들은 마치 우리에게 좋거나 싫거나 일어난 모든 것들을 각자 나름대로 받아들이고 이름 붙이는 모습과도 닮아있기 때문이다.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+스스로 삶을 대하는 시선과 선택들, 모든 과정들이 모여서 한 사람의 무늬를 만들어 낸다.
+내가 당신의 무늬를 짐잗이나 할 수 있을지 모르겠지만 
+아마도 결국 우리는 
+서로다른 무늬를 품은 채 살아가고 그렇게 계속 떠다닐 것이다.
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: {{ site.baseurl }}/img/12.jpg
-	---
-
-
+	
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
