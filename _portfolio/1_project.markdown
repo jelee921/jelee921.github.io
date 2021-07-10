@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 1
+title: Sculpture
 description: a project with a background image
 img: /img/34.png
 ---
