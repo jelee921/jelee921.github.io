@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Sculpture
+description: 기억흔적(Memory trace)
 img: /img/1.jpg
 ---
 
@@ -15,7 +15,11 @@ To give your project a background in the portfolio page, just add the img tag to
 	description: a project with a background image
 	img: /img/12.jpg
 	---
+흔적을 남기는 그리고 남겨진 모든 것들에 대한 위로비
 
+나를 밟고 지나간 모든 자국들은 지워질 듯 지워지지 않은 채로 어딘가에 붙어 숨쉬고 있다.
+도려내고 벗겨내고 잘라내어 기어이 마주하게 되었을 때,
+결코 외면하지 않는 순간부터 다시 시작할 수 있다.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
