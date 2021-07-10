@@ -10,6 +10,7 @@ Every project has a beautiful feature shocase page. It's easy to include images,
 To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/35.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/34.png" alt="" title="example image"/>
 </div>
 
 <div class="col three caption">
