@@ -15,6 +15,11 @@ To give your project a background in the portfolio page, just add the img tag to
 	description: a project with a background image
 	img: /img/12.jpg
 	---
+
+
+
+
+
 흔적을 남기는 그리고 남겨진 모든 것들에 대한 위로비
 
 나를 밟고 지나간 모든 자국들은 지워질 듯 지워지지 않은 채로 어딘가에 붙어 숨쉬고 있다.
